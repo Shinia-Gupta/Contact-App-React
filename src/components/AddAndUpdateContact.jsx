@@ -72,7 +72,7 @@ const updateContact=async (contact,id)=>{
                         <ErrorMessage name="email"/>
                     </div>
                     </div>
-                    <button className='self-end border bg-orange px-3 text-xl font-bold rounded' >{isUpdate?"Update":"Add"}</button>
+                    <button type='submit' className='self-end border bg-orange px-3 text-xl font-bold rounded' >{isUpdate?"Update":"Add"}</button>
                 </Form>
             </Formik>
         </Modal>
