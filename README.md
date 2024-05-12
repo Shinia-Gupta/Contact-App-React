@@ -1,6 +1,7 @@
 # Contact App
 
-This is a simple contact management application built using React, Vite, Formik, Chakra UI, React Toastify, and Firebase. It allows users to add, update, delete, and search contacts.
+This is a simple contact management application built using React, Vite, Formik, Chakra UI, React Toastify, and Firebase. It allows users to add, update, delete, and search contacts. [Live App](https://tangerine-tanuki-9169ed.netlify.app/)
+
 
 ## Features
 
